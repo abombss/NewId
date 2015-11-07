@@ -60,6 +60,7 @@
     <Compile Include="NewIdProviders\HostNameHashWorkerIdProvider.cs" />
     <Compile Include="NewIdProviders\NetworkAddressWorkerIdProvider.cs" />
     <Compile Include="NewIdProviders\StopwatchTickProvider.cs" />
+    <Compile Include="NewIdProviders\WindowsKernelFileTimeTickProvider.cs" />
     <Compile Include="NewIdProviders\WMINetworkAddressWorkerIdProvider.cs" />
   </ItemGroup>
   <ItemGroup />
